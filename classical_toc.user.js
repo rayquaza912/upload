@@ -1,24 +1,23 @@
 // ==UserScript==
-// @name          	Wikipedia ClassicalTOC
+// @name            Wikipedia ClassicalTOC
 // @description     Restore classic TOC from Wikipedia Vector skin pre 2023
 // @icon            https://raw.github.com/sepehr/userscript-SCRIPT/master/SCRIPT.png
 //
-// @author			Phlsph7
+// @author	    Phlsph7
 // @namespace       https://en.wikipedia.org/wiki/User:Phlsph7/ClassicalTOC(Vector2022)
-// @downloadURL		https://en.wikipedia.org/wiki/User:Phlsph7/ClassicalTOC(Vector2022).js
+// @downloadURL	    https://en.wikipedia.org/wiki/User:Phlsph7/ClassicalTOC(Vector2022).js
 //
 // @license         GPLv3 - http://www.gnu.org/licenses/gpl-3.0.txt
 //
-// @include         http://*.wikipedia.org/*
-// @match			http://*.wikipedia.org/*
+// @include         https://*.wikipedia.org/*
+// @match	    https://*.wikipedia.org/*
 //
 // @require         http://code.jquery.com/jquery-1.8.0.min.js
 //
 // @version         1.0
-// @updateURL		https://en.wikipedia.org/wiki/User:Phlsph7/ClassicalTOC(Vector2022).js
+// @updateURL	    https://en.wikipedia.org/wiki/User:Phlsph7/ClassicalTOC(Vector2022).js
 //
-// @run-at			document-end
-// @resource		resourceName	http://www.example.com/example.png
+// @run-at	    document-end
 // @unwrap
 // ==/UserScript==
 
